@@ -1,0 +1,11 @@
+Plik z pomyslami czy tez zyczeniami dotyczacymi aplikacji:
+ * mozliwosc zamiany miejscami paneli (Ctrl-U w mc)
+ * zamiana masowa nazwa plikow wedlug wzorca
+ * przekodowywanie plikow tekstowych (libiconv)
+ * zakladki w panelach
+ * klient SMB, FTP, SFTP, SCP
+ * mozliwosc skryptowania
+ * mozliwosc definiowania widokow list
+ * dodatkowy panel z drzewem katalogow (widoczny na zadanie)
+ * obsluga archiwow (zip, tar, gzip, bzip,bzip2 i co tam jeszcze podejdzie)
+ * mozliwosc dzielnie plikoww (jak za dawnych dobrych czasow :))
