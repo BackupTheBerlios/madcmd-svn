@@ -9,3 +9,95 @@ Plik z pomyslami czy tez zyczeniami dotyczacymi aplikacji:
  * dodatkowy panel z drzewem katalogow (widoczny na zadanie)
  * obsluga archiwow (zip, tar, gzip, bzip,bzip2 i co tam jeszcze podejdzie)
  * mozliwosc dzielnie plikoww (jak za dawnych dobrych czasow :))
+
+Menu:
+ Pliki 
+   ZmieÒ atrybuty
+   Spakuj...                       Alt-F5
+   Rozpakuj...                     Alt-F9
+   Testuj archiwum (archiwa)...    Alt-Shift-F9
+    ---
+   W≥aúciwoúci                     Alt-Enter
+   Oblicz zajmowanπ przestrzeÒ     Space
+    --- 
+   Zmian a nazwy...                Ctrl-M
+    ---
+   Podziel plik...
+   Scalaj pliki...
+    ---
+   UtwÛrz sumy kontrolne...
+   Weryfikuj sumy kontrolne...
+    ---
+   ZakoÒcz                         Alt-F4
+   
+ Zaznacz
+   Zaznacz grupÍ                   Num+
+   Odznacz grupÍ                   Num-
+   Zaznacz wszystkie               Ctrl+Num+
+   Odznacz wszystkie               Ctrl+Num-
+   OdwrÛÊ zaznaczenie              Num*
+    ---
+   PorÛwnaj katalogi               Shift+F2
+ 
+ Polecenia
+   Szukaj                          Alt-F10
+   Synchronizuj katalogi
+   Aktualna lista katalogÛw        Ctrl+D
+    ---
+   Uruchom terminal
+    ---
+   èrÛd≥owy <-> Docelowy           Ctrl-U
+   èrÛd≥owy <=> Docelowy           Ctrl-Shift-U
+   
+ Siec
+ 	 [nie od razu]
+ Podglad
+   KrÛtki
+   Pe≥ny
+   Komentarz
+   Tryb w≥asnych kolumn
+   Drzewo
+   Widok miniatur
+   Szybki podglπd
+   Nowa zak≥adka
+    ---
+   Wszystkie pliki
+   Programy
+   *.*
+   Uøytkownika
+   Tylko zaznaczone pliki
+    ---
+   Nazwa
+   Rozszerzenie
+   Czas 
+   WielkoúÊ
+   Nieposortowane
+    ---
+   Odwrotny porzπdek
+    ---
+   Odczytaj ponownie               Ctrl-R
+ 
+ Konfiguracja  <jakies menu i okna dialogowe do tego>
+ 
+ Pomoc
+  Pomoc  	          F1
+  Klawiatura... 
+  Strona domowa     Ctrl-Alt-Home
+   ---
+  O programie...    Shift-F1
+ 
+  
+  
+Klawisze
+ F1 - pomoc
+ F2 - zrÛb coú dla zaznaczonych plikÛw
+ F3 - podglπd
+ F4 - edycja (powiazane z typami mime - GIMP dla obrazkow, Vim dla ASCII itd...)
+      (gdy wciúniety Shift tworzy plik o domyslnym typie mimie i otwiera dla niego edytor, 
+      prosi takze o nazwe itd...)
+ F5 - kopiuj
+ F6 - przenies
+ F7 - utworz katalog
+ F8 - usun (gdy wcisniety Shift - usuwa bez potwierdzania)
+ Alt-F4 - zakoÒcz
+ 
